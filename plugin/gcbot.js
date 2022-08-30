@@ -4,17 +4,17 @@ let handler = async (m, { conn }) => conn.send2ButtonLoc(m.chat, await (await fe
 
 *𝐇𝐚𝐥𝐨 𝐁𝐚𝐧𝐡 𝐉𝐚𝐧𝐠𝐚𝐧 𝐋𝐮𝐩𝐚 𝐉𝐨𝐢𝐧 && 𝐁𝐚𝐜𝐚 𝐑𝐮𝐥𝐞𝐬❗*
 ╔═══════════════════
-║ _*Group All*_  𝐉𝐚𝐫𝐨𝐭 ×͜×
+║ _*Group All*_  Fauzi ×͜×
 ╠═══════════════════
 ║➸ 𝐆𝐫𝐨𝐮𝐩 𝐁𝐨𝐭 1
-║ https://tinyurl.com/2nchxnpa
+║ https://chat.whatsapp.com/H1Bq00WkYh54vdw8dj4Kiy
 ║➸ 𝐆𝐫𝐨𝐮𝐩 𝐁𝐨𝐭 2
-║ https://tinyurl.com/2gptyhqs
+║ https://chat.whatsapp.com/DFAkT6OFQueAg5xe8wVrz6
 ╚════════════════════
 ╔════════════════════
 ║ *Group Random*
 ╠════════════════════
-║https://tinyurl.com/2h6gch82
+║https://chat.whatsapp.com/FE9BpxtDREQJJPF9YEgzWp
 ╚════════════════════
 ╔════════════════════
 ║ *RULES GROUP BOT*
@@ -26,7 +26,6 @@ let handler = async (m, { conn }) => conn.send2ButtonLoc(m.chat, await (await fe
 ║𝐃𝐢𝐥𝐚𝐫𝐚𝐧𝐠 𝐓𝐞𝐥𝐟𝐨𝐧 𝐁𝐨𝐭
 ║𝐉𝐚𝐧𝐠𝐚𝐧 𝐋𝐮𝐩𝐚 𝐁𝐞𝐫 𝐄𝐭𝐢𝐤𝐚
 ║𝐃𝐢𝐥𝐚𝐫𝐚𝐧𝐠 𝐇𝐢𝐧𝐚 𝐁𝐨𝐭
-║𝐌𝐚𝐮 𝐒𝐞𝐰𝐚? 𝐊𝐞𝐭𝐢𝐤 .owner
 ╚════════════════════
 ╔════════════════════
 ║ *Rules Group F.V*
